@@ -1,0 +1,28 @@
+int carambinha
+
+property: int m_x x;
+
+property: int m_y y
+
+property: int m_z z
+
+Vector3 m_v;
+
+
+@(int x, int y, int z)
+{
+
+}
+
+copy:
+
+inline void dummy()
+{
+    #include "foobar.h"
+    #include "barfoo.h"
+}
+
+~@()
+{
+
+}
